@@ -1,6 +1,13 @@
 
 Die `.gitignore`-Datei wird in einem Git-Repository verwendet, um anzugeben, welche Dateien und Verzeichnisse ignoriert werden sollen. Dies bedeutet, dass diese Dateien nicht in das Versionskontrollsystem aufgenommen werden und somit nicht in das Repository hochgeladen werden. Dies ist nützlich, um unnötige oder sensible Daten wie Konfigurationsdateien, temporäre Dateien oder Abhängigkeitsverzeichnisse aus dem Versionskontrollprozess auszuschließen.
 
+1. **Fotos, die von Nutzern hochgeladen werden**:
+
+• Diese sollten ignoriert werden, weil sie benutzerspezifisch sind und nicht in das Versionskontrollsystem aufgenommen werden sollten. Diese Fotos könnten in einem Verzeichnis wie /public/uploads oder /storage/app/public gespeichert werden. Diese Verzeichnisse sollten in der .gitignore-Datei aufgeführt sein.
+
+2. **Statische Fotos, die Teil des Projekts sind**:
+
+• Wenn die Fotos Teil des Projekts sind, z.B. Logos, Icons oder andere statische Assets, die zur Gestaltung und Funktionalität der Website gehören, sollten sie nicht ignoriert werden. Diese Dateien sollten im Repository enthalten sein, damit sie bei jeder Bereitstellung der Website verfügbar sind.
 ## Typische Inhalte einer `.gitignore`-Datei für Laravel
 
 Eine typische `.gitignore`-Datei für ein Laravel-Projekt könnte so aussehen:
