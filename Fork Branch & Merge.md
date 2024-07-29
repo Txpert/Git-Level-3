@@ -121,3 +121,5 @@ die Änderungen aus dem anderen Branch
     ```
 
 6. Aktualisiere den Pull Request auf GitHub.
+
+#### Änderung David
