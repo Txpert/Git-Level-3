@@ -26,6 +26,14 @@ Um mit Branches in GitHub zu arbeiten, folgen hier die Schritte, die du in der G
     git push origin <branch-name>
     ```
 
+**Wechseln zu einem Branch**
+
+Seit Git Version 2.23 kannst du auch den folgenden Befehl verwenden, der das Erstellen und Wechseln zu einem neuen Branch in einem Schritt kombiniert:
+
+```
+git switch -c <branch-name>
+```
+
 ### 2. Änderungen committen und pushen
 
 1. Nachdem du Änderungen gemacht hast, füge sie zur Staging-Area hinzu und committe sie:
