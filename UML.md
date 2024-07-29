@@ -64,7 +64,7 @@ Aktivitätsdiagramme werden häufig verwendet, um:
 Ein Aktivitätsdiagramm wird oft verwendet, um Geschäftsprozesse, Workflows und Algorithmen zu modellieren. Es hilft dabei, komplexe Abläufe zu visualisieren und zu verstehen.
 
 
-![[Screenshot 2024-07-28 at 21.56.47.png]]
+![[[Beispiel1](https://github.com/Txpert/Git-Level-3/blob/main/Screenshot%202024-07-28%20at%2021.56.47.png)]]
 
 Das Bild zeigt ein Aktivitätsdiagramm, das den Prozess des Kochens von Spaghetti darstellt. Hier sind die Hauptkomponenten des Diagramms erklärt:
 
@@ -92,4 +92,4 @@ Dieses Diagramm visualisiert den Ablauf des Spaghetti-Kochens und zeigt, wie die
 
 
 
-![[Screenshot 2024-07-28 at 21.59.00.png]]
+![[[Beispiel1](https://github.com/Txpert/Git-Level-3/blob/main/Beispiel1)]]
