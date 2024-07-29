@@ -87,9 +87,3 @@ Das Bild zeigt ein Aktivitätsdiagramm, das den Prozess des Kochens von Spaghett
 9. **Endknoten**: Der Endknoten ist der Punkt, an dem der Prozess endet. In diesem Diagramm ist es nicht explizit dargestellt, aber es wird impliziert, dass der Prozess mit der Ausgabe der al dente gekochten Spaghetti endet.
 
 Dieses Diagramm visualisiert den Ablauf des Spaghetti-Kochens und zeigt, wie die einzelnen Schritte und Entscheidungen im Prozess miteinander verbunden sind.
-
-
-
-
-
-![[[Beispiel1](https://github.com/Txpert/Git-Level-3/blob/main/Beispiel1)]]
